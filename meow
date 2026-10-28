@@ -1,0 +1,2 @@
+meow = int(input("how many meows do you want?"))
+print("meow" * meow)
