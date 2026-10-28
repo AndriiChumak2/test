@@ -3,4 +3,4 @@ color = input("what color is it?")
 if color = "black":
 	print("meooow\n" * meow) 
 if color = "ginger":
-	print("meooow\n" * meow)
+	print("meow\n" * meow)  #ginger meow shorter
